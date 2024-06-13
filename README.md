@@ -1,12 +1,44 @@
 # Data Analyst Portfolio
 <br>
 
-## Projects
+# Projects
 
-### [Titanic Visualization with Seaborn](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb)
-This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data. Thanks to those tools, I was able to find correlations between the passengers' socio-demograhic features and their fates. Overall, we can say that the socio-demographic factors such as age, fare, class, and gender significantly influenced the experiences and outcomes of Titanic passengers (see heatmap plot below).
+## [Titanic Visualization with Seaborn](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb)
 
-![Heatmap](images/titanic_dataset.JPG)
+### Overview:
+This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data.
+
+### Objectives:
+
+- Visualize the socio-demographic features of the Titanic passengers.
+- Identify correlations between passengers' characteristics and their fates.
+
+### Key Findings:
+
+- Higher fares and being in higher classes were positively correlated with survival.
+- Younger passengers were more prevalent in lower classes.
+- Socio-demographic factors such as age, fare, class, and gender significantly influenced the experiences and outcomes of Titanic passengers.
+
+### Visualizations:
+<br>
+Correlation Heatmap: Shows the relationships between different features.<br>
+
+![](images/titanic_dataset.JPG)
+
+Age Distribution by Class: Highlights the age distribution across different passenger classes.<br>
+
+![](images/age_distribution.JPG)
+
+Fare Distribution: Displays the distribution of fares paid by passengers.<br>
+
+![](images/fare_distribution.JPG)
+
+Survival by Gender: Illustrates the survival rates among different genders.
+
+Detailed Analysis:
+For a detailed analysis and code, please refer to the [project code](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb).
+
+
 
 ### 911 Emergency Calls Analysis
 In this project, I analyzed 911 call data to derive meaningful insights. Handling emergency call data provided real-world experience in understanding patterns and trends, which can be vital for improving emergency response systems. The project emphasized data cleaning, preprocessing, and exploratory data analysis to make informed decisions based on historical emergency call data.
