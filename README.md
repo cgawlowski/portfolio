@@ -1,36 +1,10 @@
 # Data Analyst Portfolio
 <br>
 
-## Certifications
-
-- **Microsoft Power BI Desktop for Business Intelligence** - *Completed 2024*
-- **Python for Data Science and Machine Learning Bootcamp** - *Completed 2024*
-- **Le Wagon Web-Development Bootcamp** - *Completed 2020*
-
-<br>
-
-## Technical skills
-
-| Category | Skills and Concepts |
-| ----------- | ----------- |
-| Programming Languages | <br>**1. Python:** Proficient in using Python for data analysis, machine learning, and automation tasks.<br>**2. SQL:** Skilled in querying and managing databases using SQL. <br><br> |
-| Data Analysis and Manipulation: | <br> **Pandas:** Expert in data manipulation and analysis with the Pandas library.<br>**NumPy:** Proficient in numerical computations using NumPy.<br>**Data Cleaning:** Strong skills in data preprocessing, handling missing values, and data transformation. <br><br> |
-| Data Visualization: | <br> **Matplotlib:** Experienced in creating static, animated, and interactive visualizations.<br>**Seaborn:** Skilled in statistical data visualization using Seaborn.<br>**Plotly:** Proficient in creating interactive plots with Plotly.<br>**Power BI:** Experience with business intelligence and data visualization using Microsoft Power BI.<br><br> |
-| Machine Learning: | <br> **Scikit-Learn:** Skilled in implementing machine learning algorithms for classification, regression, clustering, and dimensionality reduction.<br>**TensorFlow:** Experience with building and training neural networks using TensorFlow.<br>**Keras:** Proficient in using Keras for deep learning model development<br><br> |
-| Statistical Analysis: | <br> **Hypothesis Testing:** Knowledge of statistical tests such as t-tests, chi-square tests, and ANOVA.<br>R**egression Analysis:** Experience with linear and logistic regression models.<br>**Time Series Analysis:** Skills in analyzing and forecasting time series data.<br><br> |
-| Big Data Technologies: | <br> **Spark:** Basic knowledge of big data processing using Apache Spark.<br><br>|
-| Natural Language Processing (NLP): | <br> **Text Preprocessing:** Skilled in tokenization, stemming, lemmatization, and stop-word removal.<br>**Sentiment Analysis:** Experience with sentiment analysis and text classification.<br>**Topic Modeling:** Knowledge of topic modeling techniques such as LDA (Latent Dirichlet Allocation).<br><br> |
-| Database Management: | <br> **SQL Databases:** Knowledge of SQL databases like MySQL, PostgreSQL, and SQLite.<br><br> |
-| Cloud Platforms: | <br> **AWS:** Basic knowledge of AWS services for data storage and computation.<br><br> |
-| Project Management and Collaboration: | <br> **Git and GitHub:** Proficient in version control and collaboration using Git and GitHub.<br><br> |
-| Business Intelligence: | <br> **Excel:** Advanced skills in data analysis and visualization using Excel.<br>**Dashboard Creation:** Proficient in creating interactive dashboards for data presentation.<br><br> |
-| Key Concepts: | <br> **Exploratory Data Analysis (EDA):** Strong skills in performing EDA to uncover patterns and insights.<br>**Data Mining:** Knowledge of data mining techniques for extracting useful information from large datasets.<br>**Feature Engineering:** Proficient in creating and selecting features for machine learning models.<br>**Model Evaluation:** Experience with evaluating model performance using metrics such as accuracy, precision, recall, F1-score, ROC-AUC, etc.<br>**Cross-Validation:** Skilled in applying cross-validation techniques to assess model generalizability.<br><br> |
-
-
 ## Projects
 
-### Titanic Visualization with Seaborn
-This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data. This exercise was foundational for gaining proficiency in using Seaborn for data visualization, crucial for presenting insights clearly and understandably.
+### [Titanic Visualization with Seaborn](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb)
+This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data. Thanks to those tools, I was able to find correlations between the passengers' socio-demograhic and their fates. Overall, we can say that the socio-demographic factors such as age, fare, class, and gender significantly influenced the experiences and outcomes of Titanic passengers.
 
 ### 911 Emergency Calls Analysis
 In this project, I analyzed 911 call data to derive meaningful insights. Handling emergency call data provided real-world experience in understanding patterns and trends, which can be vital for improving emergency response systems. The project emphasized data cleaning, preprocessing, and exploratory data analysis to make informed decisions based on historical emergency call data.
@@ -58,3 +32,31 @@ In this natural language processing project, I classified Yelp reviews into 1-st
 
 ### Bank Note Authentication with Deep Learning
 This project utilized deep learning techniques to determine the authenticity of banknotes based on various image features. By applying neural networks to the Bank Authentication dataset, the project illustrated the effectiveness of deep learning in classification tasks. This type of project is crucial for understanding how neural networks can be applied in fraud detection and other security-related fields.
+
+<br>
+
+## Certifications
+
+- **Microsoft Power BI Desktop for Business Intelligence** - *Completed 2024*
+- **Python for Data Science and Machine Learning Bootcamp** - *Completed 2024*
+- **Le Wagon Web-Development Bootcamp** - *Completed 2020*
+
+<br>
+
+## Technical skills
+
+| Category | Skills and Concepts |
+| ----------- | ----------- |
+| Programming Languages | <br>**1. Python:** Proficient in using Python for data analysis, machine learning, and automation tasks.<br>**2. SQL:** Skilled in querying and managing databases using SQL. <br><br> |
+| Data Analysis and Manipulation: | <br> **Pandas:** Expert in data manipulation and analysis with the Pandas library.<br>**NumPy:** Proficient in numerical computations using NumPy.<br>**Data Cleaning:** Strong skills in data preprocessing, handling missing values, and data transformation. <br><br> |
+| Data Visualization: | <br> **Matplotlib:** Experienced in creating static, animated, and interactive visualizations.<br>**Seaborn:** Skilled in statistical data visualization using Seaborn.<br>**Plotly:** Proficient in creating interactive plots with Plotly.<br>**Power BI:** Experience with business intelligence and data visualization using Microsoft Power BI.<br><br> |
+| Machine Learning: | <br> **Scikit-Learn:** Skilled in implementing machine learning algorithms for classification, regression, clustering, and dimensionality reduction.<br>**TensorFlow:** Experience with building and training neural networks using TensorFlow.<br>**Keras:** Proficient in using Keras for deep learning model development<br><br> |
+| Statistical Analysis: | <br> **Hypothesis Testing:** Knowledge of statistical tests such as t-tests, chi-square tests, and ANOVA.<br>R**egression Analysis:** Experience with linear and logistic regression models.<br>**Time Series Analysis:** Skills in analyzing and forecasting time series data.<br><br> |
+| Big Data Technologies: | <br> **Spark:** Basic knowledge of big data processing using Apache Spark.<br><br>|
+| Natural Language Processing (NLP): | <br> **Text Preprocessing:** Skilled in tokenization, stemming, lemmatization, and stop-word removal.<br>**Sentiment Analysis:** Experience with sentiment analysis and text classification.<br>**Topic Modeling:** Knowledge of topic modeling techniques such as LDA (Latent Dirichlet Allocation).<br><br> |
+| Database Management: | <br> **SQL Databases:** Knowledge of SQL databases like MySQL, PostgreSQL, and SQLite.<br><br> |
+| Cloud Platforms: | <br> **AWS:** Basic knowledge of AWS services for data storage and computation.<br><br> |
+| Project Management and Collaboration: | <br> **Git and GitHub:** Proficient in version control and collaboration using Git and GitHub.<br><br> |
+| Business Intelligence: | <br> **Excel:** Advanced skills in data analysis and visualization using Excel.<br>**Dashboard Creation:** Proficient in creating interactive dashboards for data presentation.<br><br> |
+| Key Concepts: | <br> **Exploratory Data Analysis (EDA):** Strong skills in performing EDA to uncover patterns and insights.<br>**Data Mining:** Knowledge of data mining techniques for extracting useful information from large datasets.<br>**Feature Engineering:** Proficient in creating and selecting features for machine learning models.<br>**Model Evaluation:** Experience with evaluating model performance using metrics such as accuracy, precision, recall, F1-score, ROC-AUC, etc.<br>**Cross-Validation:** Skilled in applying cross-validation techniques to assess model generalizability.<br><br> |
+
