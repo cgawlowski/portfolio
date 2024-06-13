@@ -4,7 +4,9 @@
 ## Projects
 
 ### [Titanic Visualization with Seaborn](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb)
-This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data. Thanks to those tools, I was able to find correlations between the passengers' socio-demograhic and their fates. Overall, we can say that the socio-demographic factors such as age, fare, class, and gender significantly influenced the experiences and outcomes of Titanic passengers.
+This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data. Thanks to those tools, I was able to find correlations between the passengers' socio-demograhic features and their fates. Overall, we can say that the socio-demographic factors such as age, fare, class, and gender significantly influenced the experiences and outcomes of Titanic passengers (see heatmap plot below).
+
+![Heatmap](images/titanic_dataset.JPG)
 
 ### 911 Emergency Calls Analysis
 In this project, I analyzed 911 call data to derive meaningful insights. Handling emergency call data provided real-world experience in understanding patterns and trends, which can be vital for improving emergency response systems. The project emphasized data cleaning, preprocessing, and exploratory data analysis to make informed decisions based on historical emergency call data.
