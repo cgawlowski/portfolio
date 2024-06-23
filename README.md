@@ -1,44 +1,30 @@
-# Data Analyst Portfolio
+# Cyrille Gawlowski - Data Analyst Portfolio
 <br>
+
+# About
+
+Hello! I'm Cyrille, a passionate data analyst with a knack for uncovering hidden patterns and insights in data. Armed with a Master’s Degree in Economics and Development, and extensive experience at Deloitte and other leading organizations, I have developed a diverse skill set in data manipulation, visualization, and predictive modeling. This portfolio showcases my journey through various data projects, highlighting my expertise in leveraging data to solve real-world problems. Thank you for visiting, and I look forward to connecting with you.
+
+
+<br>
+
+
+# Table of Contents
+
+About
+
+Portfolio Projects
+
+Education
+
+Certificates
+
+Contact
 
 # Projects
 
-## [Titanic Visualization with Seaborn](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb)
-
-### Overview:
-This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data.
-
-### Objectives:
-
-- Visualize the socio-demographic features of the Titanic passengers.
-- Identify correlations between passengers' characteristics and their fates.
-
-### Key Findings:
-
-- Higher fares and being in higher classes were positively correlated with survival.
-- Younger passengers were more prevalent in lower classes.
-- Socio-demographic factors such as age, fare, class, and gender significantly influenced the experiences and outcomes of Titanic passengers.
-
-### Visualizations:
-<br>
-Correlation Heatmap: Shows the relationships between different features.<br>
-
-![](images/titanic_dataset.JPG)
-
-Age Distribution by Class: Highlights the age distribution across different passenger classes.<br>
-
-![](images/age_distribution.JPG)
-
-Fare Distribution: Displays the distribution of fares paid by passengers.<br>
-
-![](images/fare_distribution.JPG)
-
-Survival by Gender: Illustrates the survival rates among different genders.
-
-Detailed Analysis:
-For a detailed analysis and code, please refer to the [project code](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb).
-
-
+### [Titanic Visualization with Seaborn](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb)
+This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data, v isualize the socio-demographic features of the Titanic passengers, and identify correlations between passengers' characteristics and their fates.
 
 ### 911 Emergency Calls Analysis
 In this project, I analyzed 911 call data to derive meaningful insights. Handling emergency call data provided real-world experience in understanding patterns and trends, which can be vital for improving emergency response systems. The project emphasized data cleaning, preprocessing, and exploratory data analysis to make informed decisions based on historical emergency call data.
@@ -76,6 +62,30 @@ This project utilized deep learning techniques to determine the authenticity of 
 - **Le Wagon Web-Development Bootcamp** - *Completed 2020*
 
 <br>
+
+
+## Education
+
+### University of Montreal & HEC Montreal
+**Master’s Degree in Economics and Development**  
+*Graduated: 2017*  
+- Focused on intelligence, geopolitics, business implementation, finance, and statistical analysis.
+
+### Grenoble Alpes University
+**Master’s Degree in International Security and Defense**  
+*Graduated: 2014*  
+- Specialized in terrorist risk management, economic intelligence, and geopolitical analysis.
+
+### Toulouse Law School
+**Bachelor's Degree in Law (Political Science major)**  
+*Graduated: 2011*  
+- Concentrated on public opinion, international relations, and economic conflicts.
+
+### Montpellier University "Paul-Valéry"
+**Diploma of Higher Education in Sociology**  
+*Graduated: 2010*  
+- Courses included sociology, statistics, anthropology, and ethnology.
+
 
 ## Technical skills
 
