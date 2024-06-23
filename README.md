@@ -3,7 +3,8 @@
 
 # About
 
-Hello! I'm Cyrille, a passionate data analyst with a knack for uncovering hidden patterns and insights in data. Armed with a Master’s Degree in Economics and Development, and extensive experience at Deloitte and other leading organizations, I have developed a diverse skill set in data manipulation, visualization, and predictive modeling. This portfolio showcases my journey through various data projects, highlighting my expertise in leveraging data to solve real-world problems. Thank you for visiting, and I look forward to connecting with you.
+Hello! I'm Cyrille, a passionate data analyst with a knack for uncovering hidden patterns and insights in data. Armed with a Master’s Degree in Economics and Development, and extensive experience at Deloitte and other leading organizations, I have developed a diverse skill set in data manipulation, visualization, and predictive modeling. This portfolio showcases my journey through various data projects, highlighting my expertise in leveraging data to solve real-world problems. Thank you for visiting, and I look forward to connecting with you.<br>
+My CV in [Notion](https://www.notion.so/color-477DA5-textbf-Cyrille-Gawlowski-c43800f019434be18a6f45e4e73dbda0?pvs=4).
 
 
 <br>
@@ -103,4 +104,12 @@ This project utilized deep learning techniques to determine the authenticity of 
 | Project Management and Collaboration: | <br> **Git and GitHub:** Proficient in version control and collaboration using Git and GitHub.<br><br> |
 | Business Intelligence: | <br> **Excel:** Advanced skills in data analysis and visualization using Excel.<br>**Dashboard Creation:** Proficient in creating interactive dashboards for data presentation.<br><br> |
 | Key Concepts: | <br> **Exploratory Data Analysis (EDA):** Strong skills in performing EDA to uncover patterns and insights.<br>**Data Mining:** Knowledge of data mining techniques for extracting useful information from large datasets.<br>**Feature Engineering:** Proficient in creating and selecting features for machine learning models.<br>**Model Evaluation:** Experience with evaluating model performance using metrics such as accuracy, precision, recall, F1-score, ROC-AUC, etc.<br>**Cross-Validation:** Skilled in applying cross-validation techniques to assess model generalizability.<br><br> |
+
+# Contact
+
+- Linkedin: [@cyrillegawlowski](www.linkedin.com/in/cyrille-gawlowski-42436643)
+- [Curriculum vitae](https://www.notion.so/color-477DA5-textbf-Cyrille-Gawlowski-c43800f019434be18a6f45e4e73dbda0?pvs=4)
+- Email: gawlowski.cyrille@gmail.com
+
+  
 
