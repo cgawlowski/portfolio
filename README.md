@@ -16,9 +16,11 @@ My CV in [Notion](https://www.notion.so/color-477DA5-textbf-Cyrille-Gawlowski-c4
 
 - [Portfolio Projects](https://github.com/cgawlowski/portfolio/blob/main/README.md#Projects)
 
-- [Education](https://github.com/cgawlowski/portfolio/blob/main/README.md#Education)
+- [Certificates](https://github.com/cgawlowski/portfolio/blob/main/README.md#Certifications)
 
-- [Certificates](https://github.com/cgawlowski/portfolio/blob/main/README.md#Certificates)
+- [Education](https://github.com/cgawlowski/portfolio/blob/main/README.md#Education)
+  
+- [Technical skills](https://github.com/cgawlowski/portfolio/blob/main/README.md#Technical-skills)
 
 - [Contact](https://github.com/cgawlowski/portfolio/blob/main/README.md#Contact)
 
