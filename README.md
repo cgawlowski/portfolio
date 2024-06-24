@@ -12,15 +12,15 @@ My CV in [Notion](https://www.notion.so/color-477DA5-textbf-Cyrille-Gawlowski-c4
 
 # Table of Contents
 
-About
+- [About](https://github.com/cgawlowski/portfolio/blob/main/README.md#About)
 
-Portfolio Projects
+- [Portfolio Projects](https://github.com/cgawlowski/portfolio/blob/main/README.md#Projects)
 
-Education
+- [Education](https://github.com/cgawlowski/portfolio/blob/main/README.md#Education)
 
-Certificates
+- [Certificates](https://github.com/cgawlowski/portfolio/blob/main/README.md#Certificates)
 
-Contact
+- [Contact](https://github.com/cgawlowski/portfolio/blob/main/README.md#Contact)
 
 # Projects
 
@@ -108,7 +108,6 @@ This project utilized deep learning techniques to determine the authenticity of 
 # Contact
 
 - Linkedin: [@cyrillegawlowski](www.linkedin.com/in/cyrille-gawlowski-42436643)
-- [Curriculum vitae](https://www.notion.so/color-477DA5-textbf-Cyrille-Gawlowski-c43800f019434be18a6f45e4e73dbda0?pvs=4)
 - Email: gawlowski.cyrille@gmail.com
 
   
