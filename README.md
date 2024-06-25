@@ -41,7 +41,7 @@ Working with an Ecommerce company's customer data, this project aimed to help th
 ### Predicting Ad Clicks with Logistic Regression
 In this project, I used logistic regression to predict whether a user would click on an advertisement based on their characteristics. Predictive modeling in digital marketing helps understand user behavior, enhancing the effectiveness of ad campaigns. The project demonstrated the application of logistic regression in a practical scenario, providing valuable experience in model building and evaluation.
 
-### Loan Repayment Prediction Using Random Forest
+### [Loan Repayment Prediction Using Random Forest](https://github.com/cgawlowski/portfolio/blob/main/Python%20projects/Loan%20Repayment%20Prediction%20Using%20Random%20Forest.ipynb)
 This project explored publicly available data from LendingClub.com to predict whether a borrower would repay their loan in full. Using random forest classification, the project aimed to assist investors in making informed decisions about potential borrowers. This type of analysis is crucial in financial services, where risk assessment and credit scoring are critical operations.
 
 ### Classifying Iris Species with SVM
