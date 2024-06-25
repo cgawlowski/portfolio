@@ -26,7 +26,7 @@ My CV in [Notion](https://www.notion.so/color-477DA5-textbf-Cyrille-Gawlowski-c4
 
 # Projects
 
-### [Titanic Visualization with Seaborn](https://github.com/cgawlowski/portfolio/blob/main/Seaborn%20project%20-%20Titanic%20data.ipynb)
+### [Titanic Visualization with Seaborn](https://github.com/cgawlowski/portfolio/blob/main/Python%20projects/Seaborn%20project%20-%20Titanic%20Survival%20Analysis.ipynb)
 This project involved using the famous Titanic dataset to practice visualization skills with Seaborn. The aim was to recreate specific plots to understand the distribution and relationships within the data, v isualize the socio-demographic features of the Titanic passengers, and identify correlations between passengers' characteristics and their fates.
 
 ### 911 Emergency Calls Analysis
