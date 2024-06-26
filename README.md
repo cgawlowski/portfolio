@@ -109,8 +109,5 @@ This project utilized deep learning techniques to determine the authenticity of 
 
 # Contact
 
-- Linkedin: [@cyrillegawlowski](www.linkedin.com/in/cyrille-gawlowski-42436643)
+- LinkedIn: [Cyrille Gawlowski](https://www.linkedin.com/in/cyrille-gawlowski-42436643)
 - Email: gawlowski.cyrille@gmail.com
-
-  
-
