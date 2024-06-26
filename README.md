@@ -32,7 +32,7 @@ This project involved using the famous Titanic dataset to practice visualization
 ### 911 Emergency Calls Analysis
 In this project, I analyzed 911 call data to derive meaningful insights. Handling emergency call data provided real-world experience in understanding patterns and trends, which can be vital for improving emergency response systems. The project emphasized data cleaning, preprocessing, and exploratory data analysis to make informed decisions based on historical emergency call data.
 
-### Bank Stock Prices During Financial Crisis
+### [Bank Stock Prices During Financial Crisis](https://github.com/cgawlowski/portfolio/blob/main/Python%20projects/Bank%20Stock%20Prices%20During%20Financial%20Crisis.ipynb)
 This project focused on the exploratory data analysis of bank stock prices during the financial crisis period, extending to early 2016. Analyzing stock data from major banks helped understand the impact of the financial crisis on the banking sector. This project highlighted the use of pandas and data visualization techniques to track financial performance, essential for financial analysts and economists.
 
 ### Ecommerce Customer Behavior Analysis
