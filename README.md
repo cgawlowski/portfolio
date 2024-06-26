@@ -47,7 +47,7 @@ This project explored publicly available data from LendingClub.com to predict wh
 ### Classifying Iris Species with SVM
 Using the famous Iris flower dataset, this project employed Support Vector Machines (SVM) to classify different species of Iris flowers based on their features. The project showcased the use of SVMs for classification tasks and provided a foundation for more complex machine learning applications.
 
-### Clustering Universities with KMeans
+### [Clustering Universities with KMeans](https://github.com/cgawlowski/portfolio/blob/main/Python%20projects/K%20Means%20Clustering%20Project.ipynb)
 The goal of this project was to use KMeans clustering to group universities into two categories: Private and Public. The project emphasized using unsupervised learning techniques to identify patterns in data without predefined labels. This type of clustering is widely used in various fields, such as market segmentation and customer classification.
 
 ### Yelp Review Classification Using NLP
