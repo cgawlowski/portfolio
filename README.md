@@ -38,7 +38,7 @@ This project focused on the exploratory data analysis of bank stock prices durin
 ### Ecommerce Customer Behavior Analysis
 Working with an Ecommerce company's customer data, this project aimed to help the company decide whether to focus on their mobile app or website. By analyzing various customer metrics such as session lengths, time spent on the app, and website, the project provided actionable insights into customer behavior. This type of analysis is critical for businesses to optimize their digital strategies and improve customer engagement.
 
-### Predicting Ad Clicks with Logistic Regression
+### [Predicting Ad Clicks with Logistic Regression](https://github.com/cgawlowski/portfolio/blob/main/Python%20projects/Logistic%20Regression%20Project.ipynb)
 In this project, I used logistic regression to predict whether a user would click on an advertisement based on their characteristics. Predictive modeling in digital marketing helps understand user behavior, enhancing the effectiveness of ad campaigns. The project demonstrated the application of logistic regression in a practical scenario, providing valuable experience in model building and evaluation.
 
 ### [Loan Repayment Prediction Using Random Forest](https://github.com/cgawlowski/portfolio/blob/main/Python%20projects/Loan%20Repayment%20Prediction%20Using%20Random%20Forest.ipynb)
